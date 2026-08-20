@@ -1,9 +1,6 @@
-```md
 <h1 align="center">Rohit Singh</h1>
 
-<h3 align="center">
-Laravel Developer | PHP Developer | MERN Stack Engineer
-</h3>
+<h3 align="center">Laravel Developer | PHP Developer | MERN Stack Engineer</h3>
 
 <p align="center">
 Building scalable web applications, enterprise systems, REST APIs and AI-assisted solutions.
@@ -25,74 +22,73 @@ I focus on building scalable, maintainable and production-ready applications whi
 
 ## Core Skills
 
-Laravel  
-PHP  
-Node.js  
-React.js  
-Next.js  
-MySQL  
-MongoDB  
-REST APIs  
+| Backend       | Frontend   | Database | APIs             |
+| ------------- | ---------- | -------- | ---------------- |
+| Laravel       | React.js   | MySQL    | REST APIs        |
+| PHP           | Next.js    | MongoDB  | JWT              |
+| CodeIgniter 4 | JavaScript | Redis    | Third-Party APIs |
+| Node.js       | HTML5      |          | Payment Gateway  |
+| Express.js    | CSS3       |          | OTP Verification |
 
 ---
 
 ## Technical Skills
 
-### Backend
+### Backend Development
 
-Laravel  
-PHP  
-CodeIgniter 4  
-Node.js  
-Express.js  
+* Laravel
+* PHP
+* CodeIgniter 4
+* Node.js
+* Express.js
 
-### Frontend
+### Frontend Development
 
-React.js  
-Next.js  
-JavaScript ES6+  
-HTML5  
-CSS3  
-Tailwind CSS  
-Bootstrap  
+* React.js
+* Next.js
+* JavaScript ES6+
+* HTML5
+* CSS3
+* Tailwind CSS
+* Bootstrap
 
 ### Databases
 
-MySQL  
-MongoDB  
+* MySQL
+* MongoDB
+* Redis
 
-### API & Application Development
+### API and Application Development
 
-REST APIs  
-JWT Authentication  
-Role-Based Access Control  
-OTP Verification  
-Third-Party API Integration  
-Payment Gateway Integration  
-CRUD Operations  
-MVC Architecture  
+* REST APIs
+* JWT Authentication
+* Role-Based Access Control
+* OTP Verification
+* Third-Party API Integration
+* Payment Gateway Integration
+* CRUD Operations
+* MVC Architecture
 
-### Development Tools & Technologies
+### Development Tools and Technologies
 
-Git  
-GitHub  
-VS Code  
-Postman  
-Composer  
-Docker  
-Linux  
-Nginx  
-Apache  
-Redis  
+* Git
+* GitHub
+* VS Code
+* Postman
+* Composer
+* Docker
+* Linux
+* Nginx
+* Apache
 
 ### AI-Assisted Development
 
-ChatGPT  
-GitHub Copilot  
-OpenAI Codex  
-Claude AI  
-Prompt Engineering  
-AI Workflow Automation  
+* ChatGPT
+* GitHub Copilot
+* OpenAI Codex
+* Claude AI
+* Prompt Engineering
+* AI Workflow Automation
 
 ---
 
@@ -102,25 +98,26 @@ AI Workflow Automation
 
 **March 2023 - Present**
 
-- Developing and maintaining enterprise CRM applications for sales, leads, packages, agents and business operations.
-- Building RESTful APIs for web and mobile applications.
-- Developing eCommerce platforms with complete order processing and payment gateway integration.
-- Implementing secure authentication, role-based permissions and OTP verification.
-- Working on admin dashboards and business management systems.
-- Optimizing database queries and indexing strategies for improved application performance.
-- Collaborating with frontend development using React.js and Next.js.
-- Managing source control and code workflows using Git and GitHub.
-- Building AI-assisted applications using the MERN Stack.
+* Developing and maintaining enterprise CRM applications.
+* Building systems for managing sales, leads, packages, agents and business operations.
+* Designing and integrating RESTful APIs for web and mobile applications.
+* Developing eCommerce applications with complete order processing and payment gateway integration.
+* Implementing secure authentication, role-based permissions and OTP verification.
+* Developing admin dashboards and business management systems.
+* Optimizing database queries and indexing strategies to improve application performance.
+* Collaborating with frontend development using React.js and Next.js.
+* Managing source control and development workflows using Git and GitHub.
+* Building AI-assisted applications using the MERN Stack.
 
 ### PHP Developer
 
 **December 2022 - March 2023**
 
-- Developed and maintained application modules using PHP and Laravel.
-- Implemented CRUD operations and backend functionality.
-- Fixed bugs and refactored existing application code.
-- Worked on third-party API integrations.
-- Managed relational database operations.
+* Developed and maintained application modules using PHP and Laravel.
+* Implemented CRUD operations and backend functionality.
+* Fixed bugs and refactored existing application code.
+* Worked on third-party API integrations.
+* Managed relational database operations.
 
 ---
 
@@ -128,9 +125,9 @@ AI Workflow Automation
 
 ### AI CRM Generator
 
-AI-powered CRM application that extracts data from Excel, CSV and other business files and automatically converts the uploaded data into structured CRM records.
+AI-powered CRM application designed to extract information from Excel, CSV and other business files and automatically convert uploaded data into structured CRM records.
 
-The system reduces manual data entry by automatically generating records such as leads and customers from uploaded files.
+The system helps reduce manual data entry by automatically generating records such as leads and customers.
 
 **Tech Stack:** MERN Stack
 
@@ -138,18 +135,18 @@ The system reduces manual data entry by automatically generating records such as
 
 ### AI Attendance Portal
 
-Role-based attendance and workforce management system designed for multiple user roles.
+Role-based attendance and workforce management system designed for Admin, HR and Employee users.
 
-**Main Features:**
+**Key Features**
 
-- Admin access
-- HR access
-- Employee access
-- Attendance tracking
-- Leave management
-- Employee management
-- Detailed analytics
-- Reporting
+* Attendance tracking
+* Leave management
+* Employee management
+* Multi-role access
+* Admin management
+* HR management
+* Detailed analytics
+* Reporting
 
 **Tech Stack:** MERN Stack
 
@@ -157,16 +154,18 @@ Role-based attendance and workforce management system designed for multiple user
 
 ### Enterprise CRM
 
-Full-scale CRM solution developed for managing business operations.
+Full-scale CRM solution designed to manage business operations from a centralized system.
 
-**Main Features:**
+**Key Features**
 
-- Lead management
-- Sales pipelines
-- Package management
-- Agent management
-- Business operations
-- Performance reporting
+* Lead management
+* Sales pipeline management
+* Package management
+* Agent management
+* Business operations
+* Performance reporting
+* Role-based access
+* Admin dashboard
 
 **Tech Stack:** Laravel, MySQL, JavaScript, Bootstrap
 
@@ -174,16 +173,17 @@ Full-scale CRM solution developed for managing business operations.
 
 ### E-Commerce Platform
 
-Full-featured eCommerce platform covering the complete online shopping and order management workflow.
+Full-featured eCommerce application covering product management, customer management and complete order processing.
 
-**Main Features:**
+**Key Features**
 
-- Product catalog
-- Shopping cart
-- Order processing
-- Payment gateway integration
-- Coupon management
-- User management
+* Product catalog
+* Shopping cart
+* Order processing
+* Payment gateway integration
+* Coupon management
+* User management
+* Admin dashboard
 
 **Tech Stack:** Laravel, MySQL, JavaScript, Bootstrap
 
@@ -191,16 +191,31 @@ Full-featured eCommerce platform covering the complete online shopping and order
 
 ### Cricket Betting Tips Website
 
-Sports prediction platform featuring sports tips, blog content, administration tools and an SEO-optimized website structure.
+Sports prediction and content platform developed with an administration panel and SEO-focused website structure.
 
-**Main Features:**
+**Key Features**
 
-- Sports tips
-- Blog management
-- Admin panel
-- SEO-friendly structure
+* Sports prediction tips
+* Blog management
+* Admin panel
+* Content management
+* SEO-friendly website structure
 
 **Tech Stack:** Laravel, MySQL, JavaScript
+
+---
+
+## What I Work With
+
+```text
+Backend        Laravel | PHP | CodeIgniter 4 | Node.js | Express.js
+Frontend       React.js | Next.js | JavaScript | HTML5 | CSS3
+Database       MySQL | MongoDB | Redis
+API            REST APIs | JWT | Third-Party APIs
+DevOps         Docker | Linux | Nginx | Apache
+Tools          Git | GitHub | Postman | Composer | VS Code
+AI             ChatGPT | GitHub Copilot | OpenAI Codex | Claude AI
+```
 
 ---
 
@@ -215,10 +230,11 @@ Sports prediction platform featuring sports tips, blog content, administration t
 
 ## Education
 
-### Bachelor of Computer Applications (BCA)
+### Bachelor of Computer Applications
 
-Kurukshetra University  
-Government PG College, Panchkula Sector 1, Haryana  
+**Kurukshetra University**
+
+Government PG College, Panchkula Sector 1, Haryana
 
 **2018 - 2021**
 
@@ -236,38 +252,37 @@ Duration: 1 Year
 
 ## Languages
 
-**Hindi:** Native  
-**English:** Professional  
+* Hindi - Native
+* English - Professional
 
 ---
 
 ## Professional Strengths
 
-Problem Solving  
-Quick Learner  
-Team Player  
-Detail-Oriented  
-Adaptable  
+* Problem Solving
+* Quick Learner
+* Team Player
+* Detail-Oriented
+* Adaptable
 
 ---
 
 ## Contact
 
-**Email:** rs4146143@gmail.com
+**Email:** [rs4146143@gmail.com](mailto:rs4146143@gmail.com)
 
-**LinkedIn:**  
+**LinkedIn:**
 https://www.linkedin.com/in/rohit-singh234189246
 
-**GitHub:**  
+**GitHub:**
 https://github.com/Rohitt1652
 
 ---
 
 <p align="center">
-Laravel Developer | PHP Developer | MERN Stack Engineer
+<strong>Laravel Developer | PHP Developer | MERN Stack Engineer</strong>
 </p>
 
 <p align="center">
 Passionate About Code | Driven by AI | Focused on Impact
 </p>
-```
