@@ -1,288 +1,244 @@
 <h1 align="center">Rohit Singh</h1>
 
-<h3 align="center">Laravel Developer | PHP Developer | MERN Stack Engineer</h3>
+<p align="center">
+  <strong>Laravel Developer | PHP Developer | MERN Stack Engineer</strong>
+</p>
 
 <p align="center">
-Building scalable web applications, enterprise systems, REST APIs and AI-assisted solutions.
+  Building scalable backend systems, business applications, REST APIs and AI-assisted web solutions.
 </p>
 
 ---
 
 ## About Me
 
-I am a Laravel and PHP Developer with 3+ years of professional experience building enterprise-grade CRM systems, eCommerce platforms, REST APIs and role-based business applications.
+I'm a Full Stack Developer with 3+ years of professional experience, primarily focused on Laravel, PHP and backend development.
 
-My experience covers backend and full-stack development using Laravel, PHP, CodeIgniter 4, Node.js, Express.js, React.js, Next.js, MySQL and MongoDB.
+I enjoy building practical products such as CRM systems, eCommerce platforms, APIs, automation tools and AI-assisted business applications.
 
-I focus on building scalable, maintainable and production-ready applications while using modern AI-assisted development tools to improve development speed and workflow efficiency.
+My development approach focuses on clean architecture, scalable code, database performance and solving real-world business problems.
 
-**Location:** Ambala, Haryana, India
-
----
-
-## Core Skills
-
-| Backend       | Frontend   | Database | APIs             |
-| ------------- | ---------- | -------- | ---------------- |
-| Laravel       | React.js   | MySQL    | REST APIs        |
-| PHP           | Next.js    | MongoDB  | JWT              |
-| CodeIgniter 4 | JavaScript | Redis    | Third-Party APIs |
-| Node.js       | HTML5      |          | Payment Gateway  |
-| Express.js    | CSS3       |          | OTP Verification |
+Currently working with both Laravel ecosystem and MERN Stack technologies.
 
 ---
 
-## Technical Skills
+## What I Build
 
-### Backend Development
-
-* Laravel
-* PHP
-* CodeIgniter 4
-* Node.js
-* Express.js
-
-### Frontend Development
-
-* React.js
-* Next.js
-* JavaScript ES6+
-* HTML5
-* CSS3
-* Tailwind CSS
-* Bootstrap
-
-### Databases
-
-* MySQL
-* MongoDB
-* Redis
-
-### API and Application Development
-
-* REST APIs
-* JWT Authentication
-* Role-Based Access Control
-* OTP Verification
-* Third-Party API Integration
-* Payment Gateway Integration
-* CRUD Operations
-* MVC Architecture
-
-### Development Tools and Technologies
-
-* Git
-* GitHub
-* VS Code
-* Postman
-* Composer
-* Docker
-* Linux
-* Nginx
-* Apache
-
-### AI-Assisted Development
-
-* ChatGPT
-* GitHub Copilot
-* OpenAI Codex
-* Claude AI
-* Prompt Engineering
-* AI Workflow Automation
+* Enterprise CRM systems
+* eCommerce applications
+* REST APIs for web and mobile apps
+* Role-based business applications
+* Authentication and authorization systems
+* Payment gateway integrations
+* Admin dashboards
+* AI-powered automation tools
+* File processing and data automation
+* Full Stack MERN applications
 
 ---
 
-## Professional Experience
+## Tech Stack
 
-### Laravel Developer
+<table>
+<tr>
+<td><strong>Backend</strong></td>
+<td>Laravel, PHP, CodeIgniter 4, Node.js, Express.js</td>
+</tr>
 
-**March 2023 - Present**
+<tr>
+<td><strong>Frontend</strong></td>
+<td>React.js, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap</td>
+</tr>
 
-* Developing and maintaining enterprise CRM applications.
-* Building systems for managing sales, leads, packages, agents and business operations.
-* Designing and integrating RESTful APIs for web and mobile applications.
-* Developing eCommerce applications with complete order processing and payment gateway integration.
-* Implementing secure authentication, role-based permissions and OTP verification.
-* Developing admin dashboards and business management systems.
-* Optimizing database queries and indexing strategies to improve application performance.
-* Collaborating with frontend development using React.js and Next.js.
-* Managing source control and development workflows using Git and GitHub.
-* Building AI-assisted applications using the MERN Stack.
+<tr>
+<td><strong>Database</strong></td>
+<td>MySQL, MongoDB, Redis</td>
+</tr>
 
-### PHP Developer
+<tr>
+<td><strong>API & Security</strong></td>
+<td>REST APIs, JWT, Role-Based Access, OTP Verification</td>
+</tr>
 
-**December 2022 - March 2023**
+<tr>
+<td><strong>Tools</strong></td>
+<td>Git, GitHub, Postman, Composer, VS Code, Docker</td>
+</tr>
 
-* Developed and maintained application modules using PHP and Laravel.
-* Implemented CRUD operations and backend functionality.
-* Fixed bugs and refactored existing application code.
-* Worked on third-party API integrations.
-* Managed relational database operations.
+<tr>
+<td><strong>Server</strong></td>
+<td>Linux, Nginx, Apache</td>
+</tr>
+
+<tr>
+<td><strong>AI Development</strong></td>
+<td>ChatGPT, GitHub Copilot, OpenAI Codex, Claude AI, Prompt Engineering</td>
+</tr>
+</table>
 
 ---
 
-## Featured Projects
+## Featured Work
 
 ### AI CRM Generator
 
-AI-powered CRM application designed to extract information from Excel, CSV and other business files and automatically convert uploaded data into structured CRM records.
+A MERN Stack based AI-powered CRM solution that processes Excel, CSV and other business files and automatically converts the data into structured CRM records.
 
-The system helps reduce manual data entry by automatically generating records such as leads and customers.
+**Highlights**
 
-**Tech Stack:** MERN Stack
+* Automated file processing
+* Automatic CRM record generation
+* Reduced manual data entry
+* Structured lead and customer management
+* AI-assisted workflow
+
+**Stack:** MERN Stack
 
 ---
 
 ### AI Attendance Portal
 
-Role-based attendance and workforce management system designed for Admin, HR and Employee users.
+A complete workforce and attendance management application with role-based access for Admin, HR and Employees.
 
-**Key Features**
+**Highlights**
 
 * Attendance tracking
 * Leave management
 * Employee management
-* Multi-role access
-* Admin management
-* HR management
-* Detailed analytics
-* Reporting
+* Multi-role authentication
+* Analytics and reporting
+* Business dashboards
 
-**Tech Stack:** MERN Stack
+**Stack:** MERN Stack
 
 ---
 
 ### Enterprise CRM
 
-Full-scale CRM solution designed to manage business operations from a centralized system.
+A scalable CRM application designed to manage complete business operations from one system.
 
-**Key Features**
+**Highlights**
 
 * Lead management
-* Sales pipeline management
-* Package management
+* Sales pipeline
 * Agent management
-* Business operations
-* Performance reporting
-* Role-based access
+* Package management
+* Role-based permissions
+* Business reporting
 * Admin dashboard
 
-**Tech Stack:** Laravel, MySQL, JavaScript, Bootstrap
+**Stack:** Laravel, MySQL, JavaScript, Bootstrap
 
 ---
 
 ### E-Commerce Platform
 
-Full-featured eCommerce application covering product management, customer management and complete order processing.
+A complete eCommerce application covering products, customers, payments and order management.
 
-**Key Features**
+**Highlights**
 
-* Product catalog
+* Product management
 * Shopping cart
 * Order processing
 * Payment gateway integration
-* Coupon management
-* User management
+* Coupon system
+* Customer management
 * Admin dashboard
 
-**Tech Stack:** Laravel, MySQL, JavaScript, Bootstrap
+**Stack:** Laravel, MySQL, JavaScript, Bootstrap
 
 ---
 
-### Cricket Betting Tips Website
+### Sports Prediction Platform
 
-Sports prediction and content platform developed with an administration panel and SEO-focused website structure.
+A Laravel-based content and sports prediction platform with a complete administration system.
 
-**Key Features**
+**Highlights**
 
-* Sports prediction tips
+* Prediction content management
 * Blog management
-* Admin panel
-* Content management
-* SEO-friendly website structure
+* Admin dashboard
+* SEO-friendly structure
+* Dynamic content management
 
-**Tech Stack:** Laravel, MySQL, JavaScript
+**Stack:** Laravel, MySQL, JavaScript
 
 ---
 
-## What I Work With
+## Backend & API Experience
 
 ```text
-Backend        Laravel | PHP | CodeIgniter 4 | Node.js | Express.js
-Frontend       React.js | Next.js | JavaScript | HTML5 | CSS3
-Database       MySQL | MongoDB | Redis
-API            REST APIs | JWT | Third-Party APIs
-DevOps         Docker | Linux | Nginx | Apache
-Tools          Git | GitHub | Postman | Composer | VS Code
-AI             ChatGPT | GitHub Copilot | OpenAI Codex | Claude AI
+Laravel Applications       REST API Development
+Authentication             JWT Authentication
+Role-Based Access          Database Optimization
+Payment Integration        Third-Party APIs
+MySQL                      MongoDB
+Redis                      Background Business Logic
 ```
 
 ---
 
-## GitHub Statistics
+## AI-Assisted Development
+
+I actively use AI development tools as part of my workflow for faster research, debugging, implementation and development automation.
+
+```text
+ChatGPT
+GitHub Copilot
+OpenAI Codex
+Claude AI
+Prompt Engineering
+AI Workflow Automation
+```
+
+My goal is not just to generate code with AI, but to use AI effectively while maintaining code quality, maintainability and application architecture.
+
+---
+
+## Currently Focused On
+
+* Advanced Laravel development
+* Scalable REST API architecture
+* MERN Stack applications
+* AI-powered business tools
+* Workflow automation
+* Application performance optimization
+* Clean and maintainable backend architecture
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rohitt1652&show_icons=false&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitt1652&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rohitt1652&show_icons=false&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitt1652&layout=compact&hide_border=true&langs_count=8" />
 </p>
 
 ---
 
-## Education
+## Development Philosophy
 
-### Bachelor of Computer Applications
-
-**Kurukshetra University**
-
-Government PG College, Panchkula Sector 1, Haryana
-
-**2018 - 2021**
+> Build solutions that solve real problems, keep the architecture maintainable, and use technology to make development smarter and more efficient.
 
 ---
 
-## Industrial Training
+## Connect With Me
 
-### Computer Operator and Programming Assistant
+**GitHub:** [github.com/Rohitt1652](https://github.com/Rohitt1652)
 
-**COPA**
-
-Duration: 1 Year
-
----
-
-## Languages
-
-* Hindi - Native
-* English - Professional
-
----
-
-## Professional Strengths
-
-* Problem Solving
-* Quick Learner
-* Team Player
-* Detail-Oriented
-* Adaptable
-
----
-
-## Contact
+**LinkedIn:** [linkedin.com/in/rohit-singh234189246](https://www.linkedin.com/in/rohit-singh234189246)
 
 **Email:** [rs4146143@gmail.com](mailto:rs4146143@gmail.com)
 
-**LinkedIn:**
-https://www.linkedin.com/in/rohit-singh234189246
-
-**GitHub:**
-https://github.com/Rohitt1652
-
 ---
 
 <p align="center">
-<strong>Laravel Developer | PHP Developer | MERN Stack Engineer</strong>
+  <strong>Laravel | PHP | MERN Stack | REST APIs | AI-Assisted Development</strong>
 </p>
 
 <p align="center">
-Passionate About Code | Driven by AI | Focused on Impact
+  Building scalable applications and practical solutions for real-world problems.
 </p>
