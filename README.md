@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a Full Stack Developer with 3+ years of professional experience, primarily focused on Laravel, PHP and backend development.
+I'm a Full Stack Developer with 4+ years of professional experience, primarily focused on Laravel, PHP and backend development.
 
 I enjoy building practical products such as CRM systems, eCommerce platforms, APIs, automation tools and AI-assisted business applications.
 
