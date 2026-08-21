@@ -207,17 +207,6 @@ My goal is not just to generate code with AI, but to use AI effectively while ma
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rohitt1652&show_icons=false&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitt1652&layout=compact&hide_border=true&langs_count=8" />
-</p>
-
----
 
 ## Development Philosophy
 
